@@ -4,8 +4,8 @@
 using namespace std;
 int main()
 {
-	double a;
-	double z1;
+	//double a;
+	//double z1;
 	double z2;
 	cout << "a = "; cin >> a;
 	z1 = (cos(a) + sin(a)) / (cos(a) - sin(a));
